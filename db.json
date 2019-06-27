@@ -1,0 +1,13 @@
+{
+  "User": {
+    "code": "1",
+    "userName": "sapna",
+    "password": "123",
+    "email": "sapna@gmail.com",
+    "mobile": "1234567890",
+    "mloc": "",
+    "locid": "",
+    "isActive": "no",
+    "role": "fuel"
+  }
+}

@@ -10,7 +10,7 @@
       "locid": "b1",
       "locTitle": "bansal1",
       "isActive": "no",
-      "role": ["fuel", "gatepass"]
+      "role": {"fuel", "gatepass"}
   },
          "2": {
       "Code": "1",
@@ -22,7 +22,7 @@
       "locid": "b2",
       "locTitle": "bansal2",
       "isActive": "yes",
-      "role":["fuel", "grn", "gatepass"]
+      "role":{"fuel", "grn", "gatepass"}
            }
 }
 }

@@ -1,6 +1,6 @@
 {
-  "User": {
-    "1": {
+  "User": [
+    {
       "Code": "1",
       "UserName": "sapna",
       "Password": "123",
@@ -11,8 +11,8 @@
       "locTitle": "bansal1",
       "isActive": "no",
       "role": ["fuel", "gatepass"]
-    },
-    "2": {
+  },
+           {
       "Code": "1",
       "UserName": "pooja",
       "Password": "123",
@@ -23,6 +23,6 @@
       "locTitle": "bansal2",
       "isActive": "yes",
       "role":["fuel", "grn", "gatepass"]
-    }
-  }
+           }
+ ]
 }

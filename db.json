@@ -1,11 +1,11 @@
 {
   "User": {
     "1": {
-      "code": "1",
-      "userName": "sapna",
-      "password": "123",
-      "email": "sapna@gmail.com",
-      "mobile": "1234567890",
+      "Code": "1",
+      "UserName": "sapna",
+      "Password": "123",
+      "Email": "sapna@gmail.com",
+      "MobileNumber": "1234567890",
       "mlocid": "m1",
       "locid": "b1",
       "locTitle": "bansal1",
@@ -13,11 +13,11 @@
       "role": ["fuel", "gatepass"]
     },
     "2": {
-      "code": "1",
-      "userName": "pooja",
-      "password": "123",
-      "email": "pooja@gmail.com",
-      "mobile": "1234567890",
+      "Code": "1",
+      "UserName": "pooja",
+      "Password": "123",
+      "Email": "pooja@gmail.com",
+      "MobileNumber": "1234567890",
       "mloc": "m2",
       "locid": "b2",
       "locTitle": "bansal2",

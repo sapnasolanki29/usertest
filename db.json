@@ -1,6 +1,6 @@
 {
-  "User": [
-    {
+  "User": {
+      "1": {
       "Code": "1",
       "UserName": "sapna",
       "Password": "123",
@@ -12,7 +12,7 @@
       "isActive": "no",
       "role": ["fuel", "gatepass"]
   },
-           {
+         "2": {
       "Code": "1",
       "UserName": "pooja",
       "Password": "123",
@@ -24,5 +24,5 @@
       "isActive": "yes",
       "role":["fuel", "grn", "gatepass"]
            }
- ]
+}
 }

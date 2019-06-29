@@ -1,28 +1,16 @@
 {
   "User": [
     {
-      "Code": 1,
       "UserName": "sapna",
       "Password": "123",
       "Email": "sapna@gmail.com",
       "MobileNumber": "1234567890",
-      "mlocid": 11,
-      "locid": 12,
-      "locTitle": "bansal1",
-      "isActive": "no",
-      "role": "fuel"
-  },
-  {
-      "Code": 2,
-      "UserName": "pooja",
-      "Password": "123",
-      "Email": "pooja@gmail.com",
-      "MobileNumber": "1234567890",
-      "mlocid": 21,
-      "locid": 22,
-      "locTitle": "bansal2",
-      "isActive": "yes",
-      "role":"gatepass"
-     }
-    ]
+    },
+    {
+     "UserName": "pooja",
+     "Password": "123",
+     "Email": "pooja@gmail.com",
+     "MobileNumber": "1234567890",
+    }
+  ]
 }

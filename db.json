@@ -12,7 +12,6 @@
       "isActive": "no",
       "role": ["fuel", "gatepass"]
   },
-  "User":
   {
       "Code": "2",
       "UserName": "pooja",
